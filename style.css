@@ -6,7 +6,7 @@
 
 .centrare-tutto{
     margin: 0 auto;
-    width: 85%;
+    width: 90%;
 }
 
 /* barra sopra logo */
@@ -28,8 +28,8 @@
     height: 70px;
 }
 .nav-bar-li{
-    width: 10px;
-    height: 10px;
+    width: 8px;
+    height: 8px;
 }
 .ul{
     list-style: none;
@@ -42,8 +42,8 @@
     font-weight: bold;
 }
 .ul li > img{
-    width: 10px;
-    height: 10px;
+    width: 8px;
+    height: 8px;
 }
 .lens{
     width: 30px;
@@ -60,5 +60,49 @@
 }
 .destra-nav{
     width: 432px;
+}
+
+
+/* returnal */
+
+.returnal{
+    width: 100%;
+    height: 81vh;
+    background-image: url(img/jumbo-bg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.returned-bg{
+    width: 100%;
+    height: 100%;
+    background-image: url(img/jumbo-bg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.returnal-scritte{
+    color: white;
+    width: 400px;
+}
+.return-dentro{
+    max-width: 400px;
+    margin-left: 5%;
+    margin-bottom: 40px;
+}
+.return-dentro > h1{
+    padding-bottom: 20px;
+}
+.return-dentro > div{
+    width: max-content;
+    background-color: red;
+    padding: 8px;
+    border-radius: 20px;
+}
+.return-dentro > p{
+    padding-bottom: 15px;
+}
+.logo-ret > img{
+    width: 200px;
+    margin-left: 5%;
+    margin-bottom: 20px;
 }
 
