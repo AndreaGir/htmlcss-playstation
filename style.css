@@ -4,6 +4,13 @@
     box-sizing: border-box;
 }
 
+.centrare-tutto{
+    margin: 0 auto;
+    width: 85%;
+}
+
+/* barra sopra logo */
+
 .barra-alto{
     width: 100%;
     height: 50px;
@@ -12,3 +19,46 @@
     width: 100px;
     height: 100%;
 }
+
+
+/* nav bar */
+
+.nav-bar{
+    width: 100%;
+    height: 70px;
+}
+.nav-bar-li{
+    width: 10px;
+    height: 10px;
+}
+.ul{
+    list-style: none;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+.ul > li{
+    float: left;
+    padding-right: 30px;
+    font-weight: bold;
+}
+.ul li > img{
+    width: 10px;
+    height: 10px;
+}
+.lens{
+    width: 30px;
+    height: 30px;
+}
+.puls-acc > span{
+    color: white;
+    padding: 8px;
+    border-radius: 20px;
+}
+.myplay{
+    width: 170px;
+    margin-right: 0;
+}
+.destra-nav{
+    width: 432px;
+}
+
