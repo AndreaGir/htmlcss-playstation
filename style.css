@@ -114,7 +114,7 @@
     margin: 0 auto;
 }
 .giochi6-dentro{
-    width: 90%;
+    
 }
 .giochi-dentro > img{
     max-width: 100%;
@@ -153,5 +153,15 @@
     border-radius: 20px;
     padding: 10px;
 }
+
+
+/* accessori */
+.accessori div > img{
+    width: 80%;
+}
+.ps5{
+    border-bottom: 2px solid blue;
+}
+
 
 
