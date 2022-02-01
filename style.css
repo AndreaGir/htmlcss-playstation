@@ -106,3 +106,35 @@
     margin-bottom: 20px;
 }
 
+/* giochi da 6 */
+
+.giochi6{
+    width: 100%;
+    height: 30%;
+    margin: 0 auto;
+}
+.giochi6-dentro{
+    width: 90%;
+}
+.giochi-dentro > img{
+    max-width: 100%;
+    border-radius: 15px;
+    border: 2px solid blue;
+    padding: 3px;
+}
+
+/* play5 */
+.play5{
+    margin-top: 80px;
+}
+.play5 div > h6{
+    color: blue;
+    margin-bottom: 5px;
+}
+.play5 div > h3{
+    margin-bottom: 20px;
+}
+
+
+/* console */
+
