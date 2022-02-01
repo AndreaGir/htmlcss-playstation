@@ -61,7 +61,24 @@
 .destra-nav{
     width: 432px;
 }
-
+#play-pad{
+    padding: 0;
+}
+.ull{
+    list-style: none;
+    margin-bottom: 0;
+    padding-left: 0;
+    gap: 0;
+}
+.ull > span{
+    float: left;
+    padding-right: 5px;
+    font-weight: bold;
+}
+.ull > img{
+    width: 8px;
+    height: 8px;
+}
 
 /* returnal */
 
@@ -200,3 +217,21 @@
 
 }
 
+
+/* giochi12 */
+
+.giochi12{
+    width: 100%;
+    height: 90vh;
+    background-color: rgb(22, 22, 22);
+}
+
+.gioco-t{
+    width: 100%;
+}
+.gioco-t > img{
+    width: 100%
+}
+.gioco-t p > sup{
+    font-size: 10px;
+}
