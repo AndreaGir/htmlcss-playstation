@@ -137,4 +137,21 @@
 
 
 /* console */
+.console{
+    width: 100%;
+    height: 30%;
+}
+.testo-play5{
+    width: 380px;
+}
+
+.play5-destra > img{
+    width: 100%;
+}
+.testo-play5 > span{
+    background-color: blue;
+    border-radius: 20px;
+    padding: 10px;
+}
+
 
